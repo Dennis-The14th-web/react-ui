@@ -11,9 +11,20 @@ class App extends Component {
         {id: 2, value:0},
         {id: 3, value:0},
         {id: 4, value:0},
-        {id: 5, value:0}
+        {id: 5, value:0},
+        {id: 6, value:0}
     ]
 };
+
+constructor() {
+  super();
+  console.log("App - Contructor");
+}
+
+componentDidMount() {
+  // Ajjax call
+  console.log("App - Mounted")
+}
 
 handleReset = () => {
     // console.log("handleReset clicked");
@@ -39,6 +50,7 @@ handleDelete = counterId => {
     this.setState({ counters })
 };
   render() {  
+    console.log("App - Rendered");
     return (
       <React.Fragment>
       <NavBar totalCounters={this.state.counters.filter(c => c.value > 0).length} />
