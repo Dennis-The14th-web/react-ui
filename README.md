@@ -12,5 +12,5 @@
 - Allow user reset the count of the product list
 - Display the total count of products in the cart of all products length.
 
-## Visuals 
+## visuals 
 * TODO @NEXT
