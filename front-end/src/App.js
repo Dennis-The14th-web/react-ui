@@ -22,7 +22,7 @@ constructor() {
 }
 
 componentDidMount() {
-  // Ajjax call
+  // Ajax call
   console.log("App - Mounted")
 }
 
