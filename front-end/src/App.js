@@ -50,6 +50,9 @@ handleDecrement = counter => {
   const index = counters.indexOf(counter);
   counters[index] = { ...counter };
   counters[index].value--;
+  if (counters[index].value < 0){
+    return "product";
+  }
   this.setState({ counters });
 }
 
