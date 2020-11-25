@@ -25,7 +25,7 @@
 <a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/2rb7gyiwGNAJ65i9ja/giphy.gif" title="made at giphy.com"/></a>
 
 
-<img src="public/images/whitebackground.png" >
+<img src="images/whitebackground.png" >
 
 
 #### Deleting product from product list and reseting product count to initial value. See visuals below.
