@@ -13,11 +13,19 @@
 - Allow user reset the count of the product list
 - Display the total count of products in the cart of all products length.
 
+## app usage
+- Fork this app.
+- Make sure navigate into the root folder (front-end)
+- Run 'npm i' to install all dependencies and react functions
+- Run 'npm start' to spin server on localhost:3000
+
 ## illustration
 #### Adding and reducing product count, and also updating product length to the cart. See visuals below.
 
 <a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/2rb7gyiwGNAJ65i9ja/giphy.gif" title="made at giphy.com"/></a>
 
+
+<img src="public/images/whitebackground.png" >
 
 
 #### Deleting product from product list and reseting product count to initial value. See visuals below.
