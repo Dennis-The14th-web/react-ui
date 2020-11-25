@@ -13,4 +13,6 @@
 - Display the total count of products in the cart of all products length.
 
 ## visuals 
-* TODO @NEXT
+* Adding and reducing product count, and also updating product length to the cart
+
+<a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/BNsPc16LYmVX6MAJnz/giphy.gif" title="made at giphy.com"/></a>
