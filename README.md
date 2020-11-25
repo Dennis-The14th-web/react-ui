@@ -16,8 +16,8 @@
 
 ## app usage
 - Fork this app.
-- Make sure navigate into the root folder (front-end)
-- Run 'npm i' to install all dependencies and react functions
+- Make sure to navigate or cd into the root folder (front-end)
+- Run 'npm install' to install all dependencies and react functions
 - Run 'npm start' to spin server on localhost:3000
 
 ## illustration
@@ -25,9 +25,7 @@
 
 <a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/2rb7gyiwGNAJ65i9ja/giphy.gif" title="made at giphy.com"/></a>
 
-
 <img src="images/whitebackground.png" >
-
 
 #### Deleting product from product list and reseting product count to initial value. See visuals below.
 
