@@ -1,17 +1,19 @@
 import React, { Component } from "react";
 
 class Counter extends Component {
-  componentDidUpdate(prevProps, prevState){
-    console.log("prevProps: ", prevProps);
-    console.log("prevState: ", prevState);
-    if (prevProps.counter.value !== this.props.counter.value) {
-      // Ajax call and get new data from the server
-    }
-  };
+  // Uncomment this to view componentDidMount cycle
+  // componentDidUpdate(prevProps, prevState){
+  //   console.log("prevProps: ", prevProps);
+  //   console.log("prevState: ", prevState);
+  //   if (prevProps.counter.value !== this.props.counter.value) {
+  //     // Ajax call and get new data from the server
+  //   }
+  // };
 
-  componentWillUnmount() {
-    console.log("Counter - Unmount");
-  }
+  // Uncomment this to view componentWillUnmount cycle
+  // componentWillUnmount() {
+  //   console.log("Counter - Unmount");
+  // }
   // state = {
   //   value: this.props.counter.value,
   //   tags: []

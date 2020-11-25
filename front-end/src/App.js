@@ -45,7 +45,7 @@ handleIncrement = counter => {
 }
 
 handleDecrement = counter => {
-  console.log(counter);
+  // console.log(counter);
   const counters = [...this.state.counters];
   const index = counters.indexOf(counter);
   counters[index] = { ...counter };
