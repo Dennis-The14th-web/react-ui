@@ -1,11 +1,13 @@
+### After following the intructions below you will be able to view and understand the basics of react.
+
 # react-ui
 - This app displays how to use props to pass data to a component.
 - How to raise and handle events
 - How to lift state and with this technique we could have multiple components that share the same data and are insync.
 - How to implement stateless functional components.
-- How how to use and understand lifecycle hooks.
-- Note that the lifecycle hooks can only be viewed in the log with the browser developer tool console.
-- The method used in this app could also be applied to like, unlike, follow, unfollow as well as deleting those objects in social media applications.
+- How to use and understand lifecycle hooks.
+   * Note that the lifecycle hooks is logged in the web development tools console
+- The method used in this app could also be applied to like, unlike, follow, unfollow as well as deleting those object in social media applications.
 
 ## discription
 - This app will allow user add or increase products
@@ -14,7 +16,7 @@
 - Allow user reset the count of the product list
 - Display the total count of products in the cart of all products length.
 
-## app usage
+## instructions
 - Fork this app.
 - Make sure to navigate or cd into the root folder (front-end)
 - Run 'npm install' to install all dependencies and react functions
