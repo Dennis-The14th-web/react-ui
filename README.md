@@ -14,10 +14,12 @@
 - Display the total count of products in the cart of all products length.
 
 ## illustration
-* Adding and reducing product count, and also updating product length to the cart. See visuals below.
+#### Adding and reducing product count, and also updating product length to the cart. See visuals below.
 
 <a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/2rb7gyiwGNAJ65i9ja/giphy.gif" title="made at giphy.com"/></a>
 
-* Deleting product from product list and reseting product count to initial value. See visuals below.
+
+
+#### Deleting product from product list and reseting product count to initial value. See visuals below.
 
 <a href="https://giphy.com/gif/3facxx"><img src="https://media.giphy.com/media/Im4T0CuITn2DOB2JsB/giphy.gif" title="made at giphy.com"/></a>
