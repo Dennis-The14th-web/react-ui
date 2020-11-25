@@ -5,6 +5,7 @@
 - How to implement stateless functional components.
 - How how to use and understand lifecycle hooks.
 - Note that the lifecycle hooks can only be viewed in the log with the browser developer tool console.
+- The method used in this app could also be applied to like, unlike, follow, unfollow as well as deleting those objects in social media applications.
 
 ## discription
 - This app will allow user add or increase products
