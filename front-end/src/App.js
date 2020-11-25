@@ -18,6 +18,7 @@ class App extends Component {
 
 constructor() {
   super();
+  console.log("Lifecycle Hooks listed below via Virtual DOM:");
   console.log("App - Contructor");
 }
 
