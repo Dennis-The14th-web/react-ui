@@ -82,3 +82,25 @@ handleDelete = counterId => {
 }
 
 export default App;
+
+
+// deleteItem(key){
+//     const filteredItems= this.state.items.filter(item =>
+//       item.key!==key);
+//     this.setState({
+//       items: filteredItems
+//     })
+
+//   }
+//   setUpdate(text,key){
+//     console.log("items:"+this.state.items);
+//     const items = this.state.items;
+//     items.map(item=>{      
+//       if(item.key===key){
+//         console.log(item.key +"    "+key)
+//         item.text= text;
+//       }
+//     })
+//     this.setState({
+//       items: items
+//     })
